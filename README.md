@@ -1,5 +1,7 @@
 # 🤖 CrouchBotik
 
+## Добавить бота: https://discord.com/oauth2/authorize?client_id=1482368400306213006&permissions=1099780074518&integration_type=0&scope=bot
+
 **CrouchBotik** — универсальный бот для Discord с экономикой, казино, дуэлями, модерацией и пасхалками. Сделает твой сервер живым и активным.
 ## 📜 Terms of Service (Условия использования)
 
